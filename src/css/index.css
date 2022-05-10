@@ -32,7 +32,7 @@ main {
     position: relative;
     margin-top: 20px;
     margin-left: 90px;
-    background-image: url("/src/img/image1.png");
+    background-image: url("./src/img/image1.png");
     background-repeat: no-repeat;
     background-position: center;
     background-color: #1e1e1e;
