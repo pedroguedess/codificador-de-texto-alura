@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./src/css/index.css">
+    <title>Alura Challenge - Decodificador de Texto</title>
+</head>
+
+<body>
+    <header>
+        <img class="logo" src="./src/img/logo.svg" alt="Logo com a letra A de Alura">
+    </header>
+    <main class="main">
+        <section class="container">
+            <textarea name="Text Area" class="textArea" cols="40" rows="6" placeholder="Digite seu texto"></textarea>
+            <div class="avisos">
+                <p class="alerta">&#x26A0 Apenas letras minúsculas e sem acento</p>
+            </div>
+            <div class="botoes">
+                <button class="criptografar" onclick="btnCriptografar()">Criptografar</button>
+                <button class="descriptografar" onclick="btnDescriptografar()">Descriptografar</button>
+            </div>
+        </section>
+        <section class="container-result">
+            <textarea name="Result Area" class="resultArea" cols="18" rows="15"
+                placeholder="Sua mensagem será exibida aqui!"></textarea>
+        </section>
+    </main>
+    <script src="./src/js/script.js"></script>
+</body>
+
+</html>
