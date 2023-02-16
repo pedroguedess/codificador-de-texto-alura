@@ -12,7 +12,8 @@
 
 # **Explicação da criptografia**:
 ###### Código:
-''' function criptografar(stringCriptofragada) {
+'''javascript 
+function criptografar(stringCriptofragada) {
     let matrizCodigo = [
         ["a", "ai"],
         ["e", "enter"],
