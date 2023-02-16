@@ -19,8 +19,8 @@ function criptografar(stringCriptofragada) {
         ["e", "enter"],
         ["i", "imes"],
         ["o", "ober"],
-        ["u", "ufat"]
-    ]; '''
+        ["u", "ufat"]]; 
+'''
 * As letras A, E, I, O, U se tornam ai, enter, imes, ober, ufat.
 
 # **Objetivos**:
