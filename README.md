@@ -10,6 +10,18 @@
 * CSS.
 * JAVASCRIPT.
 
+# **Explicação da criptografia**:
+###### Código:
+'''function criptografar(stringCriptofragada) {
+    let matrizCodigo = [
+        ["a", "ai"],
+        ["e", "enter"],
+        ["i", "imes"],
+        ["o", "ober"],
+        ["u", "ufat"]
+    ]; '''
+* As letras A, E, I, O, U se tornam ai, enter, imes, ober, ufat.
+
 # **Objetivos**:
 * Desenvolver nossas próprias aplicações.
 * Testar nossos conhecimentos adquiridos em HTML, CSS, JAVASCRIPT.
