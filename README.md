@@ -12,7 +12,7 @@
 
 # **Explicação da criptografia**:
 ###### Código:
-''' javascript 
+``` javascript 
 function criptografar(stringCriptofragada) {
     let matrizCodigo = [
         ["a", "ai"],
@@ -20,7 +20,7 @@ function criptografar(stringCriptofragada) {
         ["i", "imes"],
         ["o", "ober"],
         ["u", "ufat"]]; 
-'''
+```
 * As letras A, E, I, O, U se tornam ai, enter, imes, ober, ufat.
 
 # **Objetivos**:
