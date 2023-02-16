@@ -1,5 +1,5 @@
 # **Codificador de texto Alura - ONE - Oracle Next Education**
-Codificado de texto realizado durante o curso da _**Oracle Next Education**_ juntamente com a plataforma da _**Alura**_.
+### Codificado de texto realizado durante o curso da _**Oracle Next Education**_ juntamente com a plataforma da _**Alura**_.
 
 # **Funcionalidades**:
 * Codificar o texto com o sistema de criptografia simples.
