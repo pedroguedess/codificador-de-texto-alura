@@ -6,11 +6,11 @@ Codificado de texto realizado durante o curso da _**Oracle Next Education**_ jun
 **-** Decodificar o texto que foi criptografado.
 
 # **Tecnologias/Linguagens de programação utilizadas**:
-**-** HTML.
-**-** CSS.
-**-** JAVASCRIPT.
+* **-** HTML.
+* **-** CSS.
+* **-** JAVASCRIPT.
 
 # **Objetivos**:
-**-** Desenvolver nossas próprias aplicações.
-**-** Testar nossos conhecimentos adquiridos em HTML, CSS, JAVASCRIPT.
-**-** Publicar no github o projeto como projetos de portifólio.
+* **-** Desenvolver nossas próprias aplicações.
+* **-** Testar nossos conhecimentos adquiridos em HTML, CSS, JAVASCRIPT.
+* **-** Publicar no github o projeto como projetos de portifólio.
